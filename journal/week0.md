@@ -32,3 +32,5 @@ SNS
 I created an architectural diagram using Lucid chart. Same architectural diagram from training video was replicated
 
 ![Proof of architectural diagram](/journal/assets/Cruddur%20Logical%20Diagram%20.png)
+
+[Lucid Chart share Link](https://lucid.app/lucidchart/37d9f2d4-1387-463a-a59c-3f991b351c5f/edit?viewport_loc=43%2C-89%2C2827%2C1177%2C0_0&invitationId=inv_e6683c3f-b029-4076-85b7-0830c6af58f6)
