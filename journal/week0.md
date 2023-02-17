@@ -24,8 +24,11 @@ I also setup up MFA using Duo authenticator.
 ### Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue
 I setup a health alert using eventbridge to monitor a Guardduty alert. Subsequent notification would be initiated by
 SNS
+![Proof of Eventbridge health hookup setup](/journal/assets/Eventbridge.PNG)
 
 
 ### Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
 
 I created an architectural diagram using Lucid chart. Same architectural diagram from training video was replicated
+
+![Proof of architectural diagram](/journal/assets/Cruddur%20Logical%20Diagram%20.png)
