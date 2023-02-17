@@ -1,13 +1,13 @@
 # Week 0 — Billing and Architecture
 
-##Home work submission
+## Home work submission
 
-###Install AWSCLI
+### Install AWSCLI
 
 I was able to install awscli using shared script as explained
 When I opened Gitpod from Github, script automatically ran and awscli was installed. 
 
-###Set MFA, IAM role
+### Set MFA, IAM role
 I created a new account, which means that root account is not in use for security reasons
 I also setup an admin group with Admin permission. I also ensured that my user is a member of the admin group
 I also setup up MFA using Duo authenticator.
