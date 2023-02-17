@@ -12,7 +12,7 @@ I created a new account, which means that root account is not in use for securit
 I also setup an admin group with Admin permission. I also ensured that my user is a member of the admin group
 I also setup up MFA using Duo authenticator.
 
-![Proof of Access Keys setup](_docs/assets/Accesskeys.PNG)
+![Proof of Access Keys setup](journal/assets/Accesskeys.PNG)
 
 
 
