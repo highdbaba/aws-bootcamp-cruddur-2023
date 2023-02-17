@@ -14,9 +14,9 @@ I also setup up MFA using Duo authenticator.
 
 ![Proof of Access Keys setup](/journal/assets/Accesskeys.PNG)
 
-![Proof of IAM role setup](/journal/assets/Accesskeys.PNG)
+![Proof of IAM role setup](/journal/assets/IAMROle.PNG)
 
-![Proof of MFA setup](/journal/assets/Accesskeys.PNG)
+![Proof of MFA setup](/journal/assets/MFA.PNG)
 
 
 
